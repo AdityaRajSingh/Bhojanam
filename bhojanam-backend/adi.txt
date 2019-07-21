@@ -1,0 +1,12 @@
+Rest api=6 protocols
+stateless
+di=
+
+
+API Design Architechture
+SOAP=0
+Rest=6
+
+
+jwt.io
+
